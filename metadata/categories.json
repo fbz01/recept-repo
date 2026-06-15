@@ -1,0 +1,28 @@
+{
+  "stores": [
+    {
+      "id": "ica",
+      "name": "ICA Västervik",
+      "aisleOrder": [
+        "GRÖNSAKER",
+        "MEJERI",
+        "KÖTT & CHARK",
+        "SKAFFERI",
+        "FRYST",
+        "ÖVRIGT"
+      ]
+    },
+    {
+      "id": "willys",
+      "name": "Willys Västervik",
+      "aisleOrder": [
+        "BRÖD",
+        "GRÖNSAKER",
+        "KÖTT & CHARK",
+        "MEJERI",
+        "FRYST",
+        "ÖVRIGT"
+      ]
+    }
+  ]
+}
