@@ -1,28 +1,16 @@
 {
-  "stores": [
-    {
-      "id": "ica",
-      "name": "ICA Västervik",
-      "aisleOrder": [
-        "GRÖNSAKER",
-        "MEJERI",
-        "KÖTT & CHARK",
-        "SKAFFERI",
-        "FRYST",
-        "ÖVRIGT"
-      ]
-    },
-    {
-      "id": "willys",
-      "name": "Willys Västervik",
-      "aisleOrder": [
-        "BRÖD",
-        "GRÖNSAKER",
-        "KÖTT & CHARK",
-        "MEJERI",
-        "FRYST",
-        "ÖVRIGT"
-      ]
-    }
-  ]
+  "categories": {
+    "gul lök": "GRÖNSAKER",
+    "vitlöksklyftor": "GRÖNSAKER",
+    "morot": "GRÖNSAKER",
+    "blandfärs": "KÖTT & CHARK",
+    "mjölk": "MEJERI",
+    "ostsås": "MEJERI",
+    "riven ost": "MEJERI",
+    "smör": "MEJERI",
+    "krossade tomater": "SKAFFERI",
+    "tomatpuré": "SKAFFERI",
+    "lasagneplattor": "SKAFFERI",
+    "vetemjöl": "SKAFFERI"
+  }
 }
